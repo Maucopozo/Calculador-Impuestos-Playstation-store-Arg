@@ -1,0 +1,127 @@
+
+
+*{
+    margin: 0%;
+}
+
+header{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+
+
+}
+
+.headerText{
+    padding-bottom: 1px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+
+.iconos{
+    padding-inline: 1%;
+    padding-bottom: 1rem;
+}
+body{
+    background: rgb(0,67,144);
+    background: linear-gradient(0deg, rgba(0,67,144,1) 43%, rgba(2,22,45,1) 89%);
+}
+
+h1{
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h2{
+    color: white;
+    font-size: 25px!important;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: italic;
+}
+
+h3{
+    color: white;
+    font-size: 1.5rem!important;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h4{
+    font-size: 15px!important;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h5{
+    color: #ffab10;
+    font-size: 1.5rem!important;
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+p{
+    color: white;
+    font-size: 12px;
+}
+
+.final{
+margin: 3rem;
+
+}
+.iconosP{
+    display: flex;
+    justify-content:center ;
+}
+
+footer{
+background-color: black;
+color: white;
+border-top: #001d36 10px solid;
+}
+
+.footerP{
+    padding-top: 3rem;
+}
+
+.footerF{
+padding-right: 15px;  
+padding-bottom: 3px;
+}
+
+.formularios{
+margin-top: 20px;
+margin-bottom: 40px;
+font-weight:bolder ;
+font-size: 25px;
+font-family: 'Oswald', sans-serif;
+color: black;
+border: 2px rgb(0, 0, 0) solid;
+background-color: white;
+padding: 10px;
+text-align: center;
+box-shadow: 4px 2px 5px 1px rgb(152 152 155 / 50%);
+}
+
+.botones{
+font-size: 15px;
+font-family: 'Oswald', sans-serif;
+color: black;
+border: 2px rgb(0, 0, 0) solid;
+background-color: white;
+padding: 5px;
+}
+
+#muestraResultado {
+    background-color: rgba(3, 12, 36, 0.459);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 15px;
+    box-shadow: 5px 5px rgba(3, 4, 29, 0.473);
+    padding: 10px;
+}
+
+.control{
+    margin-left: 10%;
+    position: fixed;
+}
+
